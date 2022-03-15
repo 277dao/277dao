@@ -35,6 +35,8 @@ export { default } from "https://df.snowtigersoft.com/darksea_market/plugin.js";
   
 [leaderboard](./plugins/leaderboard.js)
 
+* 可以下载csv文件的排行榜插件
+[leaderboard with download](./plugins/leaderboard_with_download.js)
 
 * 拉黑 和 批量白名单（管理员使用）
 
