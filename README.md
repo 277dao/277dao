@@ -1,6 +1,12 @@
 # 277dao
 
-http://www.277dao.com/
+[277DAO社区](http://www.277dao.com/)
+
+TWITTER: [@277dao_](https://twitter.com/277dao_)
+
+Discord：[http://discord.gg/nK9e4vfY](http://discord.gg/nK9e4vfY)
+
+微信：Dao277-017
 
 ## 游戏地址
 
@@ -52,15 +58,6 @@ export { default } from "https://df.snowtigersoft.com/darksea_market/plugin.js";
 官方信息：https://blog.zkga.me
 
 官方插件：https://plugins.zkga.me/
-
-
-277DAO社区
-
-TWITTER:@277dao_
-
-Discord：http://discord.gg/nK9e4vfY
-
-微信：Dao277-017
 
 教程集锦：https://mirror.xyz/277share.eth
 
