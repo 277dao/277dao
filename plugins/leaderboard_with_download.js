@@ -60,7 +60,8 @@ function timestampSection(value) {
 class Plugin {
     constructor() {
         this.begin_time = 1647331200534;
-        this.end_time = 1647763200534;
+        //this.end_time = 1647763200534;
+        this.end_time = 1647774000495;
         this.csv_content = "";
         let container = document.createElement("div");
         let row = document.createElement("div");

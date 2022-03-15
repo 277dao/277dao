@@ -61,7 +61,8 @@ function timestampSection(value) {
 class Plugin {
     constructor() {
         this.begin_time = 1647331200534;
-        this.end_time = 1647763200534;
+       // this.end_time = 1647763200534;
+        this.end_time = 1647774000495;
         this.timer = document.createElement("div");
         this.timer.style.width = '100%';
         this.timer.style.textAlign = "center";
