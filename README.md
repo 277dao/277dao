@@ -41,15 +41,25 @@ export { default } from "https://df.snowtigersoft.com/darksea_market/plugin.js";
 
 
 ## 其他
-黑暗森林小攻略
-官网https://zkga.me/
+
+
+官网：https://zkga.me/
+
 官方信息：https://blog.zkga.me
+
 官方插件：https://plugins.zkga.me/
+
+
 277DAO社区
+
 TWITTER:@277dao_
+
 Discord：http://discord.gg/nK9e4vfY
+
 微信：Dao277-017
+
 教程集锦：https://mirror.xyz/277share.eth
+
 GUP开图教程：https://mirror.xyz/byeddy.eth/J1YVGMtoSOlYMYKYTjJmOiuC9h3SZd8_eigktbv9gZg
 
 
