@@ -12,7 +12,7 @@ Discord：[http://discord.gg/nK9e4vfY](http://discord.gg/nK9e4vfY)
 
 * 正式游戏，有白名单
 
-待公布
+https://zkga.me/play/0xafde76b19c6b6885394d4738059b0c52ebb3533c
 
 * 测试，有白名单
 
@@ -33,7 +33,7 @@ https://zkga.me/play/0x65580edf65670620be0965d22544a8e9c7955eb1
 * 市场插件：
 
 ```js
-export { default } from "https://df.snowtigersoft.com/darksea_market/plugin.js";
+export { default } from "https://darksea.market/plugin.js";
 ```
 
 
