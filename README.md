@@ -49,10 +49,6 @@ export { default } from "https://darksea.market/plugin.js";
 
   [whitelist](./plugins/whitelist.js)
 
-* 自动 invade capture
-
-  [auto invade & capture](./plugins/auto_invade.js)
-
 
 ## 其他
 
