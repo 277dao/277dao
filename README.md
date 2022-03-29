@@ -31,6 +31,17 @@ export { default } from "https://darksea.market/plugin.js";
 
   [whitelist](./plugins/whitelist.js)
 
+## RPC
+
+官方rpc:
+https://rpc-df.xdaichain.com/
+
+可选rpc:
+https://poa-xdai.gateway.pokt.network/v1/lb/60b13899d3279c22da2a444d (pocket network,速度中，10M/天)
+https://rpc.gnosischain.com/ (xdai,速度中)
+https://dai.poa.network/ (cloudflare,速度中)
+
+https://xdai.poanetwork.dev/ (速度慢)
 
 ## 其他
 
