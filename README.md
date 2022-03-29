@@ -33,25 +33,23 @@ export { default } from "https://darksea.market/plugin.js";
 
 ## RPC
 
-* rpc 更换
+替换rpc 教程：
 
-```js
-localStorage.setItem("XDAI_RPC_ENDPOINT_v5", "https://poa-xdai.gateway.pokt.network/v1/lb/60b13899d3279c22da2a444d");
-```
+https://www.blog.pokt.network/darkforest/
 
-### 官方rpc:
+### 官方 rpc
 
 https://rpc-df.xdaichain.com/
 
-### 可选rpc:
-
-* pocket network,速度中，10M/天
-
-  https://poa-xdai.gateway.pokt.network/v1/lb/60b13899d3279c22da2a444d 
+### 可选 rpc
 
 * xdai,速度中
 
-  https://rpc.gnosischain.com/ 
+  https://rpc.gnosischain.com/
+
+* pocket network,速度中，10M/天
+
+  https://poa-xdai.gateway.pokt.network/v1/lb/60b13899d3279c22da2a444d
 
 * cloudflare,速度中
 
