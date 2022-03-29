@@ -43,15 +43,15 @@ https://rpc-df.xdaichain.com/
 
 ### 可选 rpc
 
-* xdai,速度中
+* xdai, 速度中
 
   https://rpc.gnosischain.com/
 
-* pocket network,速度中，10M/天
+* pocket network, 速度中, 10M/天
 
   https://poa-xdai.gateway.pokt.network/v1/lb/60b13899d3279c22da2a444d
 
-* cloudflare,速度中
+* cloudflare, 速度中
 
   https://dai.poa.network/ 
 
