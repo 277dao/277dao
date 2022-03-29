@@ -37,6 +37,12 @@ export { default } from "https://darksea.market/plugin.js";
 
 https://www.blog.pokt.network/darkforest/
 
+进游戏前控制台替换：
+
+```js
+localStorage.setItem("XDAI_RPC_ENDPOINT_v5", "https://rpc.gnosischain.com/");
+```
+
 ### 官方 rpc
 
 https://rpc-df.xdaichain.com/
