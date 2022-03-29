@@ -33,6 +33,12 @@ export { default } from "https://darksea.market/plugin.js";
 
 ## RPC
 
+* rpc 更换
+
+```js
+localStorage.setItem("XDAI_RPC_ENDPOINT_v5", "https://rpc.gnosischain.com/");
+```
+
 ### 官方rpc:
 
 https://rpc-df.xdaichain.com/
