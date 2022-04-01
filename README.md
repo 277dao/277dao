@@ -32,6 +32,7 @@ export { default } from "https://darksea.market/plugin.js";
   [whitelist](./plugins/whitelist.js)
 
 * 拉黑 和 批量白名单，稳定版（管理员使用）
+
   [whitelist](./plugins/whitelist_v2.js)
 
 ## RPC
