@@ -47,6 +47,10 @@ https://www.blog.pokt.network/darkforest/
 localStorage.setItem("XDAI_RPC_ENDPOINT_v5", "https://rpc.gnosischain.com/");
 ```
 
+### 277dao rpc
+
+https://poa-xdai.gateway.pokt.network/v1/lb/62454b20617456003a26c0bf
+
 ### 官方 rpc
 
 https://rpc-df.xdaichain.com/
